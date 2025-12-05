@@ -1,0 +1,5 @@
+{
+  "name": "Sentinel: Anti-Drone Defense System",
+  "description": "A tactical dashboard and simulation testbed for autonomous anti-drone interception systems, featuring real-time telemetry, 3D tactical mapping, and security monitoring.",
+  "requestFramePermissions": []
+}
